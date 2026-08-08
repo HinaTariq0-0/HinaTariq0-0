@@ -104,3 +104,25 @@ creative projects, and collaboration.
 ⭐ Thanks for visiting my profile!
 
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HinaTariq0-0&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinaTariq0-0&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=HinaTariq0-0&theme=tokyonight&hide_border=true" />
+
+</div>
